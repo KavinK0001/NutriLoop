@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NutriLoop | Predictive Waste Minimization</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header style="margin-bottom: 2rem; display: flex; justify-content: space-between; align-items: center;">
+            <h1>NutriLoop <span style="font-size: 1.2rem; font-weight: 400; color: var(--muted-foreground);">🥗</span></h1>
+            <div id="current-slot" style="font-weight: 500; color: var(--muted-foreground);">Loading slot...</div>
+        </header>
+
+        <nav class="nav-tabs">
+            <div class="nav-tab active" data-view="student">Student</div>
+            <div class="nav-tab" data-view="kitchen">Kitchen</div>
+            <div class="nav-tab" data-view="scanner">Scanner</div>
+        </nav>
+
+        <!-- Student View -->
+        <div id="view-student" class="view active">
+            <div class="card">
+                <h2 style="margin-bottom: 1rem;">Pre-Meal Choices</h2>
+                <p style="color: var(--muted-foreground); margin-bottom: 1.5rem;">Lock in your choices for the day to help us reduce waste.</p>
+
+                <div class="nav-tabs" style="margin-bottom: 1.5rem; border-bottom: 1px solid var(--border);">
+                    <div class="nav-tab slot-tab active" data-slot="breakfast">Breakfast</div>
+                    <div class="nav-tab slot-tab" data-slot="lunch">Lunch</div>
+                    <div class="nav-tab slot-tab" data-slot="snacks">Snacks</div>
+                    <div class="nav-tab slot-tab" data-slot="dinner">Dinner</div>
+                </div>
+
+                <div id="menu-container">
+                    <!-- Dynamic menu items go here -->
+                </div>
+                <div style="margin-top: 2rem; text-align: right; display: flex; justify-content: flex-end; gap: 1rem;">
+                    <button id="submit-current" class="btn btn-secondary">Submit Current Slot</button>
+                    <button id="submit-choices" class="btn">Submit All Day Choices</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Kitchen Login View -->
+        <div id="view-kitchen-login" class="view">
+            <div class="card" style="max-width: 400px; margin: 4rem auto; text-align: center;">
+                <h2 style="margin-bottom: 1rem;">Kitchen Login</h2>
+                <p style="color: var(--muted-foreground); margin-bottom: 1.5rem;">Please enter your credentials to access the analytics portal.</p>
+
+                <div style="display: flex; flex-direction: column; gap: 1rem; text-align: left;">
+                    <div style="display: flex; flex-direction: column; gap: 0.25rem;">
+                        <label style="font-size: 0.875rem; font-weight: 500;">Username</label>
+                        <input type="text" id="login-username" style="padding: 0.5rem; border: 1px solid var(--border); border-radius: var(--radius);" placeholder="admin">
+                    </div>
+                    <div style="display: flex; flex-direction: column; gap: 0.25rem;">
+                        <label style="font-size: 0.875rem; font-weight: 500;">Password</label>
+                        <input type="password" id="login-password" style="padding: 0.5rem; border: 1px solid var(--border); border-radius: var(--radius);" placeholder="password">
+                    </div>
+                    <button id="btn-login" class="btn" style="margin-top: 1rem;">Login</button>
+                </div>
+                <div id="login-error" style="color: var(--danger); font-size: 0.875rem; margin-top: 1rem; display: none;">
+                    Invalid username or password.
+                </div>
+            </div>
+        </div>
+
+        <!-- Kitchen View -->
+        <div id="view-kitchen" class="view">
+            <div style="display: flex; justify-content: flex-end; margin-bottom: 1rem;">
+                <button id="btn-logout" class="btn btn-secondary" style="font-size: 0.8rem;">Logout</button>
+            </div>
+            <div class="card">
+                <h2 style="margin-bottom: 1rem;">Prep Analytics</h2>
+                <p style="color: var(--muted-foreground); margin-bottom: 1.5rem;">Real-time aggregated demand for the current slot.</p>
+                <div id="analytics-container" class="analytics-grid">
+                    <!-- Dynamic stats go here -->
+                </div>
+                <div style="margin-top: 2rem;">
+                    <button id="clear-analytics" class="btn btn-secondary">Reset Data</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Scanner View -->
+        <div id="view-scanner" class="view">
+            <div class="card scanner-container">
+                <h2 style="margin-bottom: 1rem;">AI Tray Scanner</h2>
+                <p style="color: var(--muted-foreground); margin-bottom: 1.5rem;">Upload your tray photo for instant nutritional grading.</p>
+
+                <div class="upload-area" id="drop-zone">
+                    <div style="font-size: 2rem; margin-bottom: 1rem;">📸</div>
+                    <p>Click or Drag & Drop photo here</p>
+                    <input type="file" id="file-input" accept="image/*" style="display: none;">
+                </div>
+
+                <div id="scanner-loading" class="loading-state">
+                    <div class="spinner"></div>
+                    <p class="status-text" id="scanner-status">Analyzing tray contents...</p>
+                </div>
+
+                <div id="scanner-result" style="display: none;">
+                    <!-- Nutrition card goes here -->
+                </div>
+
+                <div style="margin-top: 2rem; text-align: center;">
+                    <button id="reset-scanner" class="btn btn-secondary" style="display: none;">Scan Another</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="surplus-toast" class="toast">
+        <strong style="display: block; margin-bottom: 0.25rem;">📢 Surplus Alert!</strong>
+        <span id="toast-message">Extra portions of Grilled Chicken Wrap available for the next 15 mins!</span>
+    </div>
+
+    <script src="js/app.js"></script>
+    <script src="js/student.js"></script>
+    <script src="js/kitchen.js"></script>
+    <script src="js/scanner.js"></script>
+</body>
+</html>

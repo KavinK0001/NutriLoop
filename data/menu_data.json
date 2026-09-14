@@ -1,0 +1,2504 @@
+[
+  {
+    "date": "2026-09-10",
+    "day": "Thursday",
+    "breakfast": {
+      "timing": "7:00 AM - 9:00 AM",
+      "items": [
+        {
+          "name": "Set Dosa",
+          "protein": "🟡 Medium (4-6g)",
+          "fats": "🟡 Medium (5-7g)",
+          "carbs": "🟢 Good (20-25g)"
+        },
+        {
+          "name": "Vada Curry",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (14-16g)"
+        },
+        {
+          "name": "Groundnut Chutney",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (5-7g)",
+          "carbs": "🟡 Medium (4-5g)"
+        },
+        {
+          "name": "Poha Namkeen",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (20-25g)"
+        },
+        {
+          "name": "Non Veg: Scrambled Egg",
+          "protein": "🟢 Good (8-10g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🔴 Low (1-2g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal Makhani",
+          "protein": "🟡 Medium (6-8g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "Bhindi Do Pyaza",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Kara Kulambu",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Keerai Kootu",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (10-12g)"
+        },
+        {
+          "name": "Fryums",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (10-12g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "Sweet corn chaat",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (15-18g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Poori",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "Chenna Masala",
+          "protein": "🟢 Good (8-10g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "Jeera Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟢 Good (30-35g)"
+        },
+        {
+          "name": "Poriyal",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Loose Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Seasonal Fruit",
+          "protein": "🔴 Low (0.5-1g)",
+          "fats": "🔴 Low (0.2-0.5g)",
+          "carbs": "🟡 Medium (10-15g)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "day": "Friday",
+    "breakfast": {
+      "timing": "7:00 AM - 9:00 AM",
+      "items": [
+        {
+          "name": "Mixed Veg Paratha",
+          "protein": "🟡 Medium (6-8g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🟢 Good (30-35g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Rava kitchadi",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (20-25g)"
+        },
+        {
+          "name": "Chutney",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (4-6g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Podimas",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Rajma Dhal",
+          "protein": "🟢 Good (10-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (25-30g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Chicken 65",
+          "protein": "🟢 Good (18-20g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Mix Veg Gravy",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (10-12g)"
+        },
+        {
+          "name": "Poriyal",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Rice Papad",
+          "protein": "🟡 Medium (1-2g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Bread halwa",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟢 Good (25-30g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "Cake",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟢 Good (25-30g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal",
+          "protein": "🟢 Good (9-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (20-25g)"
+        },
+        {
+          "name": "Idly",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟡 Medium (15-18g)"
+        },
+        {
+          "name": "Peanut Chutney",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (5-7g)",
+          "carbs": "🟡 Medium (4-5g)"
+        },
+        {
+          "name": "Dum Aloo",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "White rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Butter Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟡 Medium (4-5g)"
+        },
+        {
+          "name": "Banana",
+          "protein": "🔴 Low (1g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (27g)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "breakfast": {
+      "timing": "7:30 AM - 9:30 AM",
+      "items": [
+        {
+          "name": "Podi Dosa",
+          "protein": "🟡 Medium (4-6g)",
+          "fats": "🟡 Medium (5-7g)",
+          "carbs": "🟢 Good (20-25g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Vadai",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Red chilli Chutney",
+          "protein": "🔴 Low (0.5-1g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (2-3g)"
+        },
+        {
+          "name": "Boiled Egg Masala",
+          "protein": "🟢 Good (6-7g)",
+          "fats": "🟡 Medium (6-8g)",
+          "carbs": "🟡 Medium (2-3g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Masoor Dhal",
+          "protein": "🟢 Good (9-10g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (20-22g)"
+        },
+        {
+          "name": "Green Peas Masala",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Dahi Vada",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (10-12g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Vendakkai Kara Kulambu",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Appalam",
+          "protein": "🟢 Good (2-3g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (4-5g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "Masala Peanuts",
+          "protein": "🟡 Medium (5-6g)",
+          "fats": "🟡 Medium (10-12g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal",
+          "protein": "🟢 Good (9-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (20-25g)"
+        },
+        {
+          "name": "Aloo Capsicum Masala",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Dhal Fry",
+          "protein": "🟡 Medium (5-7g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (15-18g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Loose Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Mint Pulao",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟢 Good (30-35g)"
+        },
+        {
+          "name": "Papaya",
+          "protein": "🔴 Low (0.5g)",
+          "fats": "🔴 Low (0.1g)",
+          "carbs": "🟡 Medium (11-12g)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-09-13",
+    "day": "Sunday",
+    "breakfast": {
+      "timing": "7:30 AM - 9:30 AM",
+      "items": [
+        {
+          "name": "Methi Poori",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (6-8g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "Chickpea Masala",
+          "protein": "🟢 Good (8-10g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "Non Veg: Boiled Egg",
+          "protein": "🟢 Good (6-7g)",
+          "fats": "🟢 Good (5-6g)",
+          "carbs": "🔴 Low (0.6g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Roti",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal Fry",
+          "protein": "🟡 Medium (5-7g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (15-18g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Brinjal Gravy",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Fryums",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (10-12g)"
+        },
+        {
+          "name": "Onion Raitha",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟡 Medium (4-5g)"
+        },
+        {
+          "name": "Chicken Dum Biriyani",
+          "protein": "🟢 Good (15-18g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🟢 Good (35-40g)"
+        },
+        {
+          "name": "Ice Cream",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (5-7g)",
+          "carbs": "🟢 Good (20-25g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "Sandwich",
+          "protein": "🟡 Medium (5-7g)",
+          "fats": "🟡 Medium (4-6g)",
+          "carbs": "🟢 Good (25-30g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal",
+          "protein": "🟢 Good (9-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (20-25g)"
+        },
+        {
+          "name": "Veg Jalfrezi",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (10-12g)"
+        },
+        {
+          "name": "Kashmiri Pulao",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟢 Good (35-40g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Loose Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Watermelon",
+          "protein": "🔴 Low (0.6g)",
+          "fats": "🔴 Low (0.2g)",
+          "carbs": "🟡 Medium (11-12g)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-09-14",
+    "day": "Monday",
+    "breakfast": {
+      "timing": "7:00 AM - 9:00 AM",
+      "items": [
+        {
+          "name": "Aloo Paratha",
+          "protein": "🟡 Medium (6-8g)",
+          "fats": "🔴 High (10-12g)",
+          "carbs": "🟢 Good (35-40g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Vermicelli upma",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟢 Good (30-35g)"
+        },
+        {
+          "name": "Coconut Chutney",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (4-6g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Scrambled Egg",
+          "protein": "🟢 Good (8-10g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🔴 Low (1-2g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Urad Dhal",
+          "protein": "🟢 Good (10-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (20-22g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Cabbage Poriyal",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-7g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Papad",
+          "protein": "🟡 Medium (1-2g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Egg Curry",
+          "protein": "🟢 Good (10-12g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Laddu",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟢 Good (18-20g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "White Channa Sundal",
+          "protein": "🟡 Medium (5-6g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (15-18g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal Rajma",
+          "protein": "🟢 Good (10-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (25-30g)"
+        },
+        {
+          "name": "Podi Dosa",
+          "protein": "🟡 Medium (4-6g)",
+          "fats": "🟡 Medium (5-7g)",
+          "carbs": "🟢 Good (20-25g)"
+        },
+        {
+          "name": "Curd rice",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟢 Good (25-30g)"
+        },
+        {
+          "name": "Coriander Chutney",
+          "protein": "🔴 Low (0.5-1g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (2-3g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Drumstick Aloo Masala",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Banana",
+          "protein": "🔴 Low (1g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (27g)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-09-15",
+    "day": "Tuesday",
+    "breakfast": {
+      "timing": "7:00 AM - 9:00 AM",
+      "items": [
+        {
+          "name": "Poha Namkeen",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (20-25g)"
+        },
+        {
+          "name": "Idly",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟡 Medium (15-18g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Chutney",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (4-6g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Non Veg: Boiled Egg",
+          "protein": "🟢 Good (6-7g)",
+          "fats": "🟢 Good (5-6g)",
+          "carbs": "🔴 Low (0.6g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal Tadka",
+          "protein": "🟡 Medium (6-8g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "Bisibela Bath",
+          "protein": "🟢 Good (8-10g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟢 Good (35-40g)"
+        },
+        {
+          "name": "Veg Jalfrezi",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (10-12g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Salad",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🔴 Low (0.5-1g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Potato Chips",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (15-18g)"
+        },
+        {
+          "name": "Gulab Jamun",
+          "protein": "🔴 Low (1g)",
+          "fats": "🔴 High (6-8g)",
+          "carbs": "🟢 Good (25-30g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "Veg. Cutlet (2 Nos)",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Mix Dhal",
+          "protein": "🟢 Good (10-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (22-25g)"
+        },
+        {
+          "name": "Methi Chapathi",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟢 Good (18-20g)"
+        },
+        {
+          "name": "Egg Fried Rice",
+          "protein": "🟡 Medium (8-10g)",
+          "fats": "🟡 Medium (5-7g)",
+          "carbs": "🟢 Good (35-40g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Loose Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Gobi Manchurian",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 High (10-12g)",
+          "carbs": "🟡 Medium (15-18g)"
+        },
+        {
+          "name": "Seasonal Fruit",
+          "protein": "🔴 Low (0.5-1g)",
+          "fats": "🔴 Low (0.2-0.5g)",
+          "carbs": "🟡 Medium (10-15g)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-09-16",
+    "day": "Wednesday",
+    "breakfast": {
+      "timing": "7:00 AM - 9:00 AM",
+      "items": [
+        {
+          "name": "Pongal",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟢 Good (25-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Chutney",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (4-6g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Vada Pav",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟢 Good (25-30g)"
+        },
+        {
+          "name": "Non Veg: French Toast",
+          "protein": "🟡 Medium (6-8g)",
+          "fats": "🔴 High (10-12g)",
+          "carbs": "🟡 Medium (20-25g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal Makhani",
+          "protein": "🟡 Medium (6-8g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Moore kulambu",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Pepper Chicken",
+          "protein": "🟢 Good (20-22g)",
+          "fats": "🟡 Medium (6-8g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Rice Papad",
+          "protein": "🟡 Medium (1-2g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Dry Jamoon",
+          "protein": "🔴 Low (1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (25-28g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "Brownie Cake",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🔴 High (10-12g)",
+          "carbs": "🟢 Good (30-35g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Mix Dhal",
+          "protein": "🟢 Good (10-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (22-25g)"
+        },
+        {
+          "name": "Veg Shahi Kurma",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 High (10-12g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Tomato Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟢 Good (35-40g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Loose Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Subzi",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Papaya",
+          "protein": "🔴 Low (0.5g)",
+          "fats": "🔴 Low (0.1g)",
+          "carbs": "🟡 Medium (11-12g)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-09-17",
+    "day": "Thursday",
+    "breakfast": {
+      "timing": "7:00 AM - 9:00 AM",
+      "items": [
+        {
+          "name": "Poha Namkeen",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (20-25g)"
+        },
+        {
+          "name": "Onion Uthappam",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Peanut Chutney",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (5-7g)",
+          "carbs": "🟡 Medium (4-5g)"
+        },
+        {
+          "name": "Scrambled Egg",
+          "protein": "🟢 Good (8-10g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🔴 Low (1-2g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dal",
+          "protein": "🟢 Good (9-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (20-25g)"
+        },
+        {
+          "name": "Aloo Capsicum Masala",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Carrot Poriyal",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (8-10g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "Pani Puri (5 Nos)",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Poori",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "Chenna Masala",
+          "protein": "🟢 Good (8-10g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Chow Chow Kootu",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Curd rice",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟢 Good (25-30g)"
+        },
+        {
+          "name": "Seasonal Fruit",
+          "protein": "🔴 Low (0.5-1g)",
+          "fats": "🔴 Low (0.2-0.5g)",
+          "carbs": "🟡 Medium (10-15g)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-09-18",
+    "day": "Friday",
+    "breakfast": {
+      "timing": "7:00 AM - 9:00 AM",
+      "items": [
+        {
+          "name": "Gobi Paratha",
+          "protein": "🟡 Medium (6-8g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🟢 Good (30-35g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Pickle",
+          "protein": "🔴 Low (0.5-1g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟡 Medium (2-3g)"
+        },
+        {
+          "name": "Kitchadi",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (20-25g)"
+        },
+        {
+          "name": "Coconut Chutney",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (4-6g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Boiled Egg Masala",
+          "protein": "🟢 Good (6-7g)",
+          "fats": "🟡 Medium (6-8g)",
+          "carbs": "🟡 Medium (2-3g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal",
+          "protein": "🟢 Good (9-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (20-25g)"
+        },
+        {
+          "name": "Gobi Masala",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Chicken 65",
+          "protein": "🟢 Good (18-20g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Appalam",
+          "protein": "🟢 Good (2-3g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (4-5g)"
+        },
+        {
+          "name": "Jalebi",
+          "protein": "🔴 Low (0.5g)",
+          "fats": "🔴 High (6-8g)",
+          "carbs": "🟢 Good (20-25g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "Masala Vada",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Chapathi",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Yellow Dhal",
+          "protein": "🟢 Good (9-10g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (20-22g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Idly",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟡 Medium (15-18g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Peanut Chutney",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (5-7g)",
+          "carbs": "🟡 Medium (4-5g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Loose Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Subzi",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Beetroot Poriyal",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Banana",
+          "protein": "🔴 Low (1g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (27g)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-09-19",
+    "day": "Saturday",
+    "breakfast": {
+      "timing": "7:30 AM - 9:30 AM",
+      "items": [
+        {
+          "name": "Masala Dosai",
+          "protein": "🟡 Medium (4-6g)",
+          "fats": "🟡 Medium (6-8g)",
+          "carbs": "🟢 Good (25-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Chutney",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (4-6g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Boiled Egg",
+          "protein": "🟢 Good (6-7g)",
+          "fats": "🟢 Good (5-6g)",
+          "carbs": "🔴 Low (0.6g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Chapathi",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Green gram dhal",
+          "protein": "🟢 Good (8-10g)",
+          "fats": "🔴 Low (0.5-1g)",
+          "carbs": "🟢 Good (18-20g)"
+        },
+        {
+          "name": "Kadi Pakora",
+          "protein": "🟡 Medium (4-6g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (10-12g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Poriyal",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Fryums",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (10-12g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "Aloo Samosa",
+          "protein": "🔴 Low (3-4g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (15-18g)"
+        },
+        {
+          "name": "Rose Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal",
+          "protein": "🟢 Good (9-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (20-25g)"
+        },
+        {
+          "name": "Green Veg Sabzi",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (10-12g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Loose Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Poriyal",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Seasonal Fruit",
+          "protein": "🔴 Low (0.5-1g)",
+          "fats": "🔴 Low (0.2-0.5g)",
+          "carbs": "🟡 Medium (10-15g)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-09-20",
+    "day": "Sunday",
+    "breakfast": {
+      "timing": "7:30 AM - 9:30 AM",
+      "items": [
+        {
+          "name": "Mix Veg Paratha",
+          "protein": "🟡 Medium (6-8g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🟢 Good (30-35g)"
+        },
+        {
+          "name": "Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Pickle",
+          "protein": "🔴 Low (0.5-1g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟡 Medium (2-3g)"
+        },
+        {
+          "name": "Kitchadi",
+          "protein": "🟡 Medium (4-5g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (20-25g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Chutney",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (4-6g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Non Veg: Egg bhurji",
+          "protein": "🟢 Good (8-10g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🔴 Low (1-2g)"
+        },
+        {
+          "name": "Bread",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🔴 Low (1g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Butter",
+          "protein": "🔴 Low (0.1g)",
+          "fats": "🔴 High (11-12g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Jam",
+          "protein": "🔴 Low (0g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🟢 Good (13-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "lunch": {
+      "timing": "12:30 PM - 2:30 PM",
+      "items": [
+        {
+          "name": "Phulka",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal",
+          "protein": "🟢 Good (9-12g)",
+          "fats": "🔴 Low (1-2g)",
+          "carbs": "🟢 Good (20-25g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Appalam",
+          "protein": "🟢 Good (2-3g)",
+          "fats": "🟡 Medium (3-4g)",
+          "carbs": "🟡 Medium (4-5g)"
+        },
+        {
+          "name": "Onion Raitha",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟡 Medium (4-5g)"
+        },
+        {
+          "name": "Oil Brinjal",
+          "protein": "🔴 Low (1-2g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (8-10g)"
+        },
+        {
+          "name": "Chicken Biriyani",
+          "protein": "🟢 Good (15-18g)",
+          "fats": "🟡 Medium (8-10g)",
+          "carbs": "🟢 Good (35-40g)"
+        },
+        {
+          "name": "Ice Cream",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (5-7g)",
+          "carbs": "🟢 Good (20-25g)"
+        }
+      ]
+    },
+    "snacks": {
+      "timing": "4:30 PM - 6:15 PM",
+      "items": [
+        {
+          "name": "Veg Puff",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🔴 High (8-10g)",
+          "carbs": "🟡 Medium (12-15g)"
+        },
+        {
+          "name": "Tea",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Coffee",
+          "protein": "🔴 Low (0-1g)",
+          "fats": "🔴 Low (0g)",
+          "carbs": "🔴 Low (0g)"
+        },
+        {
+          "name": "Milk",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (5-6g)"
+        }
+      ]
+    },
+    "dinner": {
+      "timing": "7:00 PM - 9:00 PM",
+      "items": [
+        {
+          "name": "Chapathi",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (1-2g)",
+          "carbs": "🟢 Good (15-18g)"
+        },
+        {
+          "name": "Dhal Punjabi",
+          "protein": "🟡 Medium (6-8g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (18-20g)"
+        },
+        {
+          "name": "White Rice",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🔴 Low (0.3g)",
+          "carbs": "🟢 Good (28-30g)"
+        },
+        {
+          "name": "Sambar",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (6-8g)"
+        },
+        {
+          "name": "Rasam",
+          "protein": "🟡 Medium (2-3g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟡 Medium (4-6g)"
+        },
+        {
+          "name": "Loose Curd",
+          "protein": "🟡 Medium (3-5g)",
+          "fats": "🟡 Medium (1-3g)",
+          "carbs": "🟡 Medium (3-5g)"
+        },
+        {
+          "name": "Peas Pulao",
+          "protein": "🟡 Medium (3-4g)",
+          "fats": "🟡 Medium (2-3g)",
+          "carbs": "🟢 Good (35-40g)"
+        },
+        {
+          "name": "Mixed Veg gravy",
+          "protein": "🔴 Low (2-3g)",
+          "fats": "🟡 Medium (4-5g)",
+          "carbs": "🟡 Medium (10-12g)"
+        },
+        {
+          "name": "Papaya",
+          "protein": "🔴 Low (0.5g)",
+          "fats": "🔴 Low (0.1g)",
+          "carbs": "🟡 Medium (11-12g)"
+        }
+      ]
+    }
+  }
+]
