@@ -1,94 +1,61 @@
-# NutriLoop 🥗
+# 🥗 NutriLoop
 
-**Predictive Waste Minimization — One Meal at a Time**
+**Predictive Food Waste Minimization Platform**
 
-NutriLoop is an end-to-end food waste prevention, surplus redistribution, and nutritional analytics platform built for campus mess halls at VIT Vellore.
+NutriLoop is a rapid working prototype designed to bridge the gap between student meal preferences and kitchen preparation in campus mess halls. By implementing predictive demand forecasting and real-time nutritional feedback, NutriLoop aims to significantly reduce food waste while improving student health.
 
-Built for **Hackulus 2026** — Track: Environment & Sustainability (Option 1: *The Food That Never Gets Eaten*).
+## 🚀 Core Features
 
----
+### 🎓 Student Portal
+- **Predictive Choice Engine**: Students can pre-select their meals for Breakfast, Lunch, Snacks, and Dinner.
+- **Nutritional Visibility**: Instead of complex numbers, meals are graded as **Good**, **Mid**, or **Bad** for Protein, Carbs, and Fats, making healthy choices intuitive.
+- **Time-Locked Submissions**: To ensure accuracy, meal choices are locked once the specific meal window begins.
+- **Surplus Alerts**: Real-time toast notifications notify students when extra portions of specific dishes are available, encouraging the consumption of surplus food.
 
-## 📌 Problem Statement
+### 🍳 Kitchen Analytics Portal
+- **Demand Forecasting**: Aggregates all student choices into real-time totals per dish.
+- **Precision Prep**: Provides kitchen staff with exact quantities needed for each slot, eliminating overproduction.
+- **Secure Access**: Simple credential-based login to protect sensitive demand data.
 
-Campus mess halls routinely over-prepare batch meals based on static estimates rather than real-time demand, leading to heavy daily waste of high-value items (like boiled eggs and main dishes). At the same time, students wanting extra nutrition get turned away due to rigid portioning policies.
+### 📸 AI Tray Scanner (Simulation)
+- **Vision Pipeline**: A simulated AI pipeline that "analyzes" tray photos through several stages (Analysis $\rightarrow$ Matching $\rightarrow$ Calculation).
+- **Nutritional Grading**: Assigns a "Nutritional Tier" (S to F) based on the composition of the tray.
+- **Menu Integration**: Matches detected items against the current day's menu to provide a summary of caloric intake.
 
-NutriLoop solves this two-sided inefficiency by:
+## 🛠️ Technical Stack
 
-1. Shifting kitchen operations from static cooking to **real-time pre-meal demand forecasting**.
-2. Broadcasting **late-window surplus inventory** to students 15 minutes before meal slots end.
-3. Giving students **AI-powered plate nutritional visibility** and macro tier ratings.
+- **Frontend**: Vanilla JavaScript (ES6+), CSS3, HTML5.
+- **Architecture**: Single Page Application (SPA) with custom view-routing logic.
+- **Persistence**: `localStorage` is used to simulate a backend database for student orders and historical analytics.
+- **Data**: JSON-based menu system (`menu_data.json`) acting as the single source of truth.
+- **Design**: "Cyber-Professional" Dark Mode UI utilizing a brand palette of Deep Navy and Vibrant Green.
 
----
+## 📂 Project Structure
 
-## ✨ Key Features
-
-- **🌐 Dynamic MessIT Menu Sync** — loads daily menu items from a local JSON dataset (`menu_data.json`), sourced from `messit.vinnovateit.com`.
-- **📊 Pre-Meal Choice Engine** — students pick exact dish quantities for upcoming meal slots (Breakfast, Lunch, Snacks, Dinner) via contextual time-aware banners.
-- **👨‍🍳 Kitchen Analytics Portal** — aggregates student pre-selections into exact prep targets, eliminating over-cooking at the source.
-- **📢 15-Minute Surplus Broadcast Engine** — alerts students 15 minutes before meal slots close, showing remaining unserved inventory for extra portions.
-- **📸 Pre-Meal AI Tray Scanner** — upload a tray photo, matches dishes against today's menu with Vision AI, rates the plate S-Tier to F-Tier, and shows color-coded macro indicators:
-  - 🟢 Green — optimal / healthy
-  - 🟡 Yellow — moderate
-  - 🔴 Red — low nutrient / high refined carbs or fats
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Frontend | HTML5, Modern CSS3 (Shadcn UI variables), Vanilla JavaScript (ES6+), Lucide Icons |
-| Backend & Data | Offline JSON database (`menu_data.json`) / Supabase Realtime |
-| AI Vision Engine | OpenAI GPT-4o Vision API / Google Gemini Vision API |
-
----
-
-## ⏱️ Campus Schedule Integration
-
-NutriLoop aligns directly with VIT Vellore mess schedules:
-
-| Meal Slot | Operating Hours | Selection Prompt Window | Surplus Alert |
-|---|---|---|---|
-| Breakfast | 07:00 – 09:00 | Previous night / morning | 08:45 AM |
-| Lunch | 12:30 – 14:30 | During breakfast slot | 02:15 PM |
-| Snacks | 16:30 – 18:15 | During lunch slot | 06:00 PM |
-| Dinner | 19:00 – 20:45 | During snacks slot | 08:30 PM |
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Any modern web browser (Chrome, Firefox, Edge, Safari)
-- Python 3.x or Node.js (optional, to serve static files locally)
-
-### Running Locally
-
-```bash
-git clone https://github.com/KavinK0001/NutriLoop.git
-cd NutriLoop
+```text
+├── css/
+│   └── styles.css        # Professional dark-mode design system
+├── data/
+│   └── menu_data.json     # Source of truth for daily meals & macros
+├── js/
+│   ├── app.js            # Core state management, routing, and menu loading
+│   ├── student.js        # Choice engine and surplus alert logic
+│   ├── kitchen.js        # Analytics aggregation and auth logic
+│   └── scanner.js        # Mock AI vision pipeline simulation
+└── index.html             # Main SPA container
 ```
 
-Start a local static web server:
+## 🏃 How to Run
 
-```bash
-# Using Python
-python -m http.server 3000
+Since the project uses `fetch()` to load the menu JSON, it must be served via a web server:
 
-# Or using Node.js
-npx serve .
-```
+1.  **Clone the repository**
+2.  **Start a local server** (e.g., using VS Code Live Server, `http-server`, or `python -m http.server`).
+3.  **Open `index.html`** in any modern web browser.
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+### Kitchen Credentials
+- **Username**: `admin`
+- **Password**: `password`
 
----
-
-## 👥 Team
-
-Built with ❤️ at Hackulus 2026 by:
-
-- **Kavin** — Team Lead & AI Vision Integration
-- **Amaldeep** — Frontend UI & Choice Engine
-- **Asvath** — Backend Architecture & Database
-- **Manjith** — Web Scraping & Pitch Execution
+## 🎯 The Vision
+NutriLoop transforms the mess hall from a "guess-and-cook" operation into a data-driven ecosystem. By knowing exactly what students want before the stove is lit, campuses can drastically reduce their environmental footprint and food costs while ensuring students are well-nourished.
