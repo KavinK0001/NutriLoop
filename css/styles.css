@@ -201,7 +201,7 @@ body {
 .stat-card {
   text-align: center;
   padding: 1.5rem 1rem;
-  background: var(--card-bg);
+  background: #030a1a; /* Darker than the main background */
   border: 1px solid var(--border);
   border-radius: var(--radius);
   transition: all 0.3s ease;
@@ -210,7 +210,7 @@ body {
 .stat-card:hover {
   border-color: var(--brand-green);
   transform: scale(1.02);
-  box-shadow: 0 10px 15px -3px rgba(0,0,0,0.4);
+  box-shadow: 0 10px 15px -3px rgba(0,0,0,0.6);
 }
 
 .stat-val {
