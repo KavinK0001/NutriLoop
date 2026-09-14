@@ -131,9 +131,9 @@ const App = {
         };
 
         const mapClassToLabel = (className) => {
-            if (className === 'green') return 'High';
-            if (className === 'red') return 'Low';
-            return 'Medium';
+            if (className === 'green') return 'Good';
+            if (className === 'red') return 'Bad';
+            return 'Mid';
         };
 
         return items.map((item, index) => {
