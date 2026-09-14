@@ -26,7 +26,7 @@ NutriLoop solves this two-sided inefficiency by:
 - **📊 Pre-Meal Choice Engine** — students pick exact dish quantities for upcoming meal slots (Breakfast, Lunch, Snacks, Dinner) via contextual time-aware banners.
 - **👨‍🍳 Kitchen Analytics Portal** — aggregates student pre-selections into exact prep targets, eliminating over-cooking at the source.
 - **📢 15-Minute Surplus Broadcast Engine** — alerts students 15 minutes before meal slots close, showing remaining unserved inventory for extra portions.
-- **📸 Post-Meal AI Tray Scanner** — upload a tray photo, matches dishes against today's menu with Vision AI, rates the plate S-Tier to F-Tier, and shows color-coded macro indicators:
+- **📸 Pre-Meal AI Tray Scanner** — upload a tray photo, matches dishes against today's menu with Vision AI, rates the plate S-Tier to F-Tier, and shows color-coded macro indicators:
   - 🟢 Green — optimal / healthy
   - 🟡 Yellow — moderate
   - 🔴 Red — low nutrient / high refined carbs or fats
